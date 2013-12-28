@@ -1,7 +1,7 @@
 backupRotate
 ============
 
-(c) Copyright 2013 Bjoern Schiessle <bjoern@schiessle.org>
+(c) Copyright 2013 Bjoern Schiessle
 
 This program is free software released under the MIT License, for more details
 see LICENSE.txt or http://opensource.org/licenses/MIT
